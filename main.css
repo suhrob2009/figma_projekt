@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav_img{
+    background-image: url(./img/d5bcfa1202660989676142d20d6e242f\ 1\ \(1\).png);
+    width: 150px;
+    height: 46px;
+    top: 24px;
+    left: 145px;
+  
+
+
+}
+.nav_title{
+    width: 99px;
+height: 21px;
+top: 43px;
+left: 707px;
+color: #3A3838;
+text-align: right;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+
+}

@@ -1,0 +1,415 @@
+.frame {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .div {
+    background-color: #ffffff;
+    width: 1400px;
+    height: 1609px;
+    position: relative;
+  }
+  
+  .frame .illustration-of-an {
+    position: absolute;
+    width: 1110px;
+    height: 272px;
+    top: 107px;
+    left: 145px;
+    object-fit: cover;
+  }
+  
+  .frame .image {
+    position: absolute;
+    width: 150px;
+    height: 71px;
+    top: 24px;
+    left: 145px;
+    transition: .6s;
+  }
+  
+  .frame .image:hover{
+    width: 153px;
+    height: 74px;
+  }
+  
+  .frame .text-wrapper {
+    top: 42px;
+    left: 1195px;
+    color: #3a3838;
+    font-size: 18px;
+    text-align: right;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-2 {
+    top: 42px;
+    left: 1082px;
+    color: #3a3838;
+    font-size: 18px;
+    text-align: right;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-3 {
+    top: 42px;
+    left: 954px;
+    color: #3a3838;
+    font-size: 18px;
+    text-align: right;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-4 {
+    top: 42px;
+    left: 573px;
+    color: #ef4423;
+    font-size: 18px;
+    text-align: right;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-5 {
+    top: 42px;
+    left: 821px;
+    color: #3a3838;
+    font-size: 18px;
+    text-align: right;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-6 {
+    top: 42px;
+    left: 707px;
+    color: #3a3838;
+    font-size: 18px;
+    text-align: right;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap {
+    position: absolute;
+    width: 350px;
+    height: 378px;
+    top: 414px;
+    left: 0;
+    background-color: #b71c1c;
+  }
+  
+  .frame .img {
+    position: absolute;
+    width: 350px;
+    height: 175px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    transition: .6s;
+  }
+  .frame .img:hover{
+    width: 354px;
+    height: 179px;
+  }
+  
+  .frame .p {
+    position: absolute;
+    width: 320px;
+    top: 189px;
+    left: 15px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    transition: .6s;
+  }
+  
+  .frame .p:hover{
+    font-size: 19.3px;
+  
+  }
+  
+  .frame .text-wrapper-7 {
+    position: absolute;
+    width: 320px;
+    top: 243px;
+    left: 15px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #eaeaea;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap-group {
+    position: absolute;
+    width: 350px;
+    height: 378px;
+    top: 414px;
+    left: 350px;
+    background-color: #6a1b9a;
+  }
+  
+  .frame .text-wrapper-8 {
+    position: absolute;
+    width: 320px;
+    top: 68px;
+    left: 15px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #eaeaea;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-9 {
+    position: absolute;
+    width: 320px;
+    top: 14px;
+    left: 15px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    transition: .6s;
+  }
+  
+  .frame .text-wrapper-9:hover{
+    font-size: 19.3px;
+  }
+  
+  .frame .img-2 {
+    position: absolute;
+    width: 350px;
+    height: 175px;
+    top: 203px;
+    left: 0;
+    object-fit: cover;
+    transition: .6s;
+  }
+  
+  .frame .img-2:hover{
+    width: 354px;
+    height: 179px;
+  }
+  
+  .frame .overlap-2 {
+    position: absolute;
+    width: 350px;
+    height: 378px;
+    top: 414px;
+    left: 700px;
+    background-color: #303f9f;
+  }
+  
+  .frame .overlap-3 {
+    position: absolute;
+    width: 350px;
+    height: 378px;
+    top: 414px;
+    left: 1050px;
+    background-color: #00695c;
+  }
+  
+  .frame .text-wrapper-10 {
+    top: 833px;
+    left: 610px;
+    color: #3a3838;
+    font-size: 22px;
+    text-align: center;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    transition: .4s;
+  }
+  
+  .frame .text-wrapper-10:hover{
+    color: #b71c1c;
+    font-size: 25px;
+  }
+  
+  .frame .overlap-4 {
+    position: absolute;
+    width: 1400px;
+    height: 531px;
+    top: 900px;
+    left: 0;
+    background-color: #ececec;
+  }
+  
+  .frame .text-wrapper-11 {
+    width: 540px;
+    top: 19px;
+    left: 715px;
+    color: #3a3838;
+    font-size: 22px;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .web {
+    position: absolute;
+    width: 555px;
+    height: 531px;
+    top: 0;
+    left: 130px;
+    object-fit: cover;
+  }
+  
+  .frame .huawei-mediapad {
+    position: absolute;
+    width: 540px;
+    top: 101px;
+    left: 715px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #686868;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap-group-2 {
+    position: absolute;
+    width: 1400px;
+    height: 128px;
+    top: 1481px;
+    left: 0;
+    background-color: #3a3838;
+  }
+  
+  .frame .image-2 {
+    position: absolute;
+    width: 150px;
+    height: 71px;
+    top: 28px;
+    left: 145px;
+  }
+  
+  .frame .text-wrapper-12 {
+    top: 52px;
+    left: 1195px;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: right;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-13 {
+    top: 52px;
+    left: 1082px;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: right;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-14 {
+    top: 52px;
+    left: 954px;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: right;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-15 {
+    top: 52px;
+    left: 573px;
+    color: #ef4423;
+    font-size: 18px;
+    text-align: right;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-16 {
+    top: 52px;
+    left: 821px;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: right;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-17 {
+    top: 52px;
+    left: 707px;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: right;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
